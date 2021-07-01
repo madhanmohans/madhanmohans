@@ -1,6 +1,6 @@
 Hello Bypasser!
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<img align="right" alt="GIF" src="https://media.tenor.com/images/b24460d29cfb2126afbba78c2b02a0d3/tenor.gif" />
 
 <img src="https://komarev.com/ghpvc/?username=madhanmohans" alt="madhanmohans" />
 
