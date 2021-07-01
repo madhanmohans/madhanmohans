@@ -2,6 +2,10 @@ Hello Bypasser!
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
+<img src="https://komarev.com/ghpvc/?username=madhanmohans" alt="madhanmohans" />
+
+![Madhan's Github stats](https://github-readme-stats.vercel.app/api?username=madhanmohans&show_icons=true)
+
 **Connect with me:**
 <p align="left">
 <a href="https://www.instagram.com/vatana.chhorn/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kushal.bhanot" height="40" width="40" /></a> &nbsp;&nbsp;
