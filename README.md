@@ -12,6 +12,8 @@ I am Madhan.
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhanmohans&theme=radical" />
 </a>
 
+<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhanmohans&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://komarev.com/ghpvc/?username=madhanmohans&color=red" alt="madhanmohans"/>
