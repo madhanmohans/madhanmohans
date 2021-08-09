@@ -4,13 +4,20 @@ I am Madhan.
 
 <img align="center" alt="GIF" src="https://64.media.tumblr.com/ca9e88da893983165efe900cfe141aba/tumblr_nnx3wcLEKt1qciqqno3_640.gifv" />
 
-![Madhan's Github stats](https://github-readme-stats.vercel.app/api?username=madhanmohans&show_icons=true&theme=radical)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=madhanmohans&theme=radical)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhanmohans&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://komarev.com/ghpvc/?username=madhanmohans&color=red" alt="madhanmohans"/>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=madhanmohans&show_icons=true&theme=radical" alt="Madhan's github stats" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhanmohans&theme=radical" />
+</a>
+
 
 Find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
