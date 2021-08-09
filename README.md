@@ -4,11 +4,11 @@ I am Madhan.
 
 <img align="center" alt="GIF" src="https://64.media.tumblr.com/ca9e88da893983165efe900cfe141aba/tumblr_nnx3wcLEKt1qciqqno3_640.gifv" />
 
-![Madhan's Github stats](https://github-readme-stats.vercel.app/api?username=madhanmohans&show_icons=true&theme=chartreuse-dark)
+![Madhan's Github stats](https://github-readme-stats.vercel.app/api?username=madhanmohans&show_icons=true&theme=radical)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=madhanmohans&theme=chartreuse-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=madhanmohans&theme=radical)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhanmohans&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhanmohans&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://komarev.com/ghpvc/?username=madhanmohans" alt="madhanmohans"/>
 
