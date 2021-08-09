@@ -4,9 +4,9 @@ I am Madhan.
 
 <img align="center" alt="GIF" src="https://64.media.tumblr.com/ca9e88da893983165efe900cfe141aba/tumblr_nnx3wcLEKt1qciqqno3_640.gifv" />
 
-<img src="https://komarev.com/ghpvc/?username=madhanmohans" alt="madhanmohans" />
+<img src="https://komarev.com/ghpvc/?username=madhanmohans" alt="madhanmohans"/>
 
-![Madhan's Github stats](https://github-readme-stats.vercel.app/api?username=madhanmohans&show_icons=true&theme=dark)
+![Madhan's Github stats](https://github-readme-stats.vercel.app/api?username=madhanmohans&show_icons=true&theme=chartreuse-dark)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=madhanmohans&theme=chartreuse-dark)](https://git.io/streak-stats)
 
