@@ -16,7 +16,7 @@ I am Madhan.
 
 <img src="https://komarev.com/ghpvc/?username=madhanmohans&color=red" alt="madhanmohans"/>
 
-[![github-readme-twitter](https://github-readme-twitter.medi0cremind.vercel.app/api?id=gazff)](https://github.com/gazf/github-readme-twitter)
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=mediocremind)](https://github.com/gazf/github-readme-twitter)
 
 Find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
