@@ -12,12 +12,14 @@ I am Madhan.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhanmohans&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+Find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
+<!-- Icons -->
 
-**Connect with me:**
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
-<p align="left">
-<a href="https://instagram.com/mediocremind_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mediocremind" height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://open.spotify.com/user/wo4kcrsub29cxt5a4r6die548" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" alt="madlistener" height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/madhan-mohan-s-330b591a3/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mediocremind" height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://twitter.com/medi0cremind" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mediocremind" height="40" width="40" /></a> &nbsp;&nbsp;
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/medi0cremind
+[2]: https://www.linkedin.com/in/madhan-mohan-s/
