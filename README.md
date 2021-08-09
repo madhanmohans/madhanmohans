@@ -6,7 +6,7 @@ I am Madhan.
 
 <img src="https://komarev.com/ghpvc/?username=madhanmohans" alt="madhanmohans" />
 
-![Madhan's Github stats](https://github-readme-stats.vercel.app/api?username=madhanmohans&show_icons=true)
+![Madhan's Github stats](https://github-readme-stats.vercel.app/api?username=madhanmohans&show_icons=true&theme=dark)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=madhanmohans&theme=chartreuse-dark)](https://git.io/streak-stats)
 
