@@ -8,7 +8,7 @@ I am Madhan.
 
 ![Madhan's Github stats](https://github-readme-stats.vercel.app/api?username=madhanmohans&show_icons=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=madhanmohans)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=madhanmohans&theme=chartreuse-dark)](https://git.io/streak-stats)
 
 
 **Connect with me:**
