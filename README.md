@@ -5,16 +5,16 @@ I am Madhan.
 <img align="center" alt="GIF" src="https://64.media.tumblr.com/ca9e88da893983165efe900cfe141aba/tumblr_nnx3wcLEKt1qciqqno3_640.gifv" />
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=madhanmohans&show_icons=true&theme=radical" alt="Madhan's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=madhanmohans&show_icons=true&theme=omni" alt="Madhan's github stats" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhanmohans&theme=radical" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhanmohans&theme=omni" />
 </a>
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhanmohans&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhanmohans&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://komarev.com/ghpvc/?username=madhanmohans&color=red" alt="madhanmohans"/>
 
