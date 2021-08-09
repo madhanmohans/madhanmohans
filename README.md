@@ -10,7 +10,7 @@ I am Madhan.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhanmohans&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://komarev.com/ghpvc/?username=madhanmohans" alt="madhanmohans"/>
+<img src="https://komarev.com/ghpvc/?username=madhanmohans&color=red" alt="madhanmohans"/>
 
 Find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
