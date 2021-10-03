@@ -7,11 +7,6 @@ I am Madhan.
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=madhanmohans&show_icons=true&theme=omni" alt="Madhan's github stats" />
 </a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhanmohans&theme=omni" />
-</a>
-
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhanmohans&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
