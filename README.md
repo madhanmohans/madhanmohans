@@ -9,6 +9,9 @@
 </a>
 <br>
 
+
+<p align="centre"> <a href="https://github.com/madhanmohans"><img align = "left" src="https://github-profile-trophy.vercel.app/?username=madhanmohans&margin-w=5&theme=radical" alt="Madhan Mohan" /></a> </p>
+
 <img src="https://github.com/madhanmohans/madhanmohans/blob/main/life_balance.gif" alt="side Image" align="centre" width="200" height="auto" />
 
 I'm ***Madhan Mohan***
