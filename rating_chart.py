@@ -57,8 +57,10 @@ def main():
 if __name__ == "__main__":
 
     plot = main()
+    print("```")
     print('My ♟︎ Chess.com Ratings Chart')
     print()
     print(TIME_CLASS.capitalize() + ' Ratings:')
     print()
     print (plot)
+    print("```")
