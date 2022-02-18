@@ -4,7 +4,7 @@
 <img align="left" width="500" alt="GIF" src="https://64.media.tumblr.com/ca9e88da893983165efe900cfe141aba/tumblr_nnx3wcLEKt1qciqqno3_640.gifv" />
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=madhanmohans&show_icons=true&theme=omni" width="500" alt="Madhan's github stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=madhanmohans&show_icons=true&theme=omni&hide_border=true" width="500" alt="Madhan's github stats" />
 </a>
 <br>
 
