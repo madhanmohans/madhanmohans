@@ -8,7 +8,7 @@
 </a>
 <br>
 
-<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="centre" width="200" height="auto" />
+<img src="https://github.com/madhanmohans/madhanmohans/blob/main/life_balance.gif" alt="side Image" align="centre" width="200" height="auto" />
 
 I'm ***Madhan Mohan***
 <br><br>
