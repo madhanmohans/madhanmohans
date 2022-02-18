@@ -1,8 +1,12 @@
 # Hello, Bypasser! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am Madhan.
 
 <img align="center" alt="GIF" src="https://64.media.tumblr.com/ca9e88da893983165efe900cfe141aba/tumblr_nnx3wcLEKt1qciqqno3_640.gifv" />
+
+I'm *Madhan Mohan*
+<br><br>
+My current interests are **Competitive programming, Data structures and algroithms, Backend development, Command line interface, Bash programming, Data analysis, Machine learning, ML automation on edge and general technical stuffs.**
+
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=madhanmohans&show_icons=true&theme=omni" alt="Madhan's github stats" />
