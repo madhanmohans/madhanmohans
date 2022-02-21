@@ -16,7 +16,7 @@
 </a>
 <br>
 
-<img src="https://github.com/madhanmohans/madhanmohans/blob/main/life_balance.gif" alt="side Image" align="left" width="200" height="auto" />
+<img src="https://github.com/madhanmohans/madhanmohans/blob/main/media/life_balance.gif" alt="side Image" align="left" width="200" height="auto" />
 
 I'm ***Madhan Mohan***
 <br><br>
@@ -38,29 +38,6 @@ Find me on [![LinkedIn][2.2]][2].
 
 <br>
 
-```
-My ♟︎ Chess.com Ratings Chart
-
-Rapid Ratings:
-
- 1192.00  ┤                                                                   ╭╮
- 1183.38  ┤                                                                  ╭╯╰╮  ╭╮
- 1174.75  ┤                                                             ╭╮╭──╯  ╰╮╭╯╰╮
- 1166.12  ┤                                                            ╭╯╰╯      ╰╯  ╰╮
- 1157.50  ┤                                                           ╭╯              ╰╮   ╭╮                ╭
- 1148.88  ┤                                                        ╭╮╭╯                ╰─╮╭╯╰╮╭─╮           ╭╯
- 1140.25  ┤                                                       ╭╯╰╯                   ╰╯  ╰╯ ╰╮╭╮╭╮     ╭╯
- 1131.62  ┤                                                    ╭╮╭╯                              ╰╯╰╯╰╮╭╮╭─╯
- 1123.00  ┤                                                ╭╮ ╭╯╰╯                                    ╰╯╰╯
- 1114.38  ┤                 ╭╮╭╮                        ╭──╯╰─╯
- 1105.75  ┤          ╭─╮   ╭╯╰╯╰╮                      ╭╯
- 1097.12  ┤         ╭╯ ╰─╮╭╯    ╰╮                  ╭╮╭╯
- 1088.50  ┤╭─╮     ╭╯    ╰╯      ╰╮          ╭╮    ╭╯╰╯
- 1079.88  ┼╯ ╰─╮  ╭╯              ╰╮╭╮    ╭╮╭╯╰╮╭╮╭╯
- 1071.25  ┤    ╰╮╭╯                ╰╯╰╮ ╭─╯╰╯  ╰╯╰╯
- 1062.62  ┤     ╰╯                    ╰─╯
- 1054.00  ┤
-```
 ```
 My ♟︎ Chess.com Ratings Chart
 
