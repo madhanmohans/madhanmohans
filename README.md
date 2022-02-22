@@ -24,19 +24,18 @@ My current interests are **Competitive programming, Data structures and algroith
 
 <br>
 
-Find me on [![LinkedIn][2.2]][2], [![Twitter][1.2]][1].
+<p align="center">
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-[1]: https://twitter.com/madhanmohansh
-[2]: https://www.linkedin.com/in/madhanmohans/
-[3]: https://www.kaggle.com/madhanmohans
-
-
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhanmohans&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
-<!--<img src="https://komarev.com/ghpvc/?username=madhanmohans&color=red" align="left" alt="madhanmohans"/> -->
-
-<!--[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=medi0cremind&theme=dark)](https://github.com/gazf/github-readme-twitter)-->
+<br>
+<a target="_blank" href="https://madhanmohans.github.io"><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a>	
+<a target="_blank" href="https://www.linkedin.com/in/madhanmohans"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:iammadhanmohans@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="https://medium.com/@madhanmohans"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
+<a target="_blank" href="https://twitter.com/madhanmohansh"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+<a target="_blank" href="https://habitica.com/profile/2817aaa4-8e05-4677-9c81-f4b9a353a6c5
+"><img src="https://img.shields.io/badge/-Habitica-432874?style=for-the-badge&logo=Habitica&logoColor=white"></img></a>
+<br>
+</p>       
 
 <br>
 
