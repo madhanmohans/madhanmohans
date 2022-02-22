@@ -14,15 +14,16 @@
   <img align="centre" src="https://github-readme-stats.vercel.app/api?username=madhanmohans&show_icons=true&theme=omni&hide_border=true" width="500" alt="Madhan's github stats" />
   <img align ="centre" src="https://github-readme-streak-stats.herokuapp.com?user=madhanmohans&hide_border=true&layout=compact&show_icons=true&theme=omni&hide_border=true"  width="500" alt="Madhan's github stats"/>
 </a>
+
 <br>
 
 <img src="https://github.com/madhanmohans/madhanmohans/blob/main/media/life_balance.gif" alt="side Image" align="left" width="200" height="auto" />
+
 
 I'm ***Madhan Mohan***
 <br><br>
 My current interests are **Competitive programming, Data structures and algroithms, Backend development, Command line interface, Bash programming, Data analysis, Machine learning, ML automation on edge and general technical stuffs.**
 
-<br>
 
 <p align="center">
 
