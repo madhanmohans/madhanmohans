@@ -1,3 +1,5 @@
+## ♟️ Adding Chess Rating Chart at the end of the Github README
+
 1. Clone this repo
 2. Create a virtualenv `virtualenv chess`
 3. Install requirements `pip install -r chess-rating/requirements.txt`
@@ -43,3 +45,7 @@ git add .; git commit -q -m "Updated on `date +'%d-%m-%Y %H:%M:%S'`"; git push o
     - ctrl(command) + x to save,
     - 'Y' to confirm,
     - Enter to exit.
+
+### NOTES:
+- Inspiration: [sciencepal](https://github.com/sciencepal/sciencepal) 👐
+- Feel free to ask questions in issues section, if you get stuck. 😉
