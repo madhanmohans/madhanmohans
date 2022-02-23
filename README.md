@@ -22,7 +22,7 @@
 
 I'm ***Madhan Mohan***
 <br><br>
-My current interests are **Competitive programming, Data structures and algroithms, Backend development, Command line interface, Bash programming, Data analysis, Machine learning, ML automation on edge and general technical stuffs.**
+Currently tinkering with ***Coding problems, Backend development, Linux kernel, Command line interface, Bash scripting, Data analysis, Machine learning, ML Automation on edge and general technical stuffs.***
 
 
 <p align="center">
