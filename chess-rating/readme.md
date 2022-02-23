@@ -45,7 +45,7 @@ git add .; git commit -q -m "Updated on `date +'%d-%m-%Y %H:%M:%S'`"; git push o
     - ctrl(command) + x to save,
     - 'Y' to confirm,
     - Enter to exit.
-
+---
 ### NOTES:
 - Inspiration: [sciencepal](https://github.com/sciencepal/sciencepal) 👐
-- Feel free to ask questions in issues section, if you get stuck. 😉
+- Create issues to improve the workflow 🤘
