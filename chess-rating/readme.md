@@ -3,7 +3,7 @@
 1. Clone this repo
 2. Create a virtualenv `virtualenv chess`
 3. Install requirements `pip install -r chess-rating/requirements.txt`
-4. Create a bash scipt in ```.local/bin/``` and name it chess.sh 
+4. Create a bash scipt in ```.local/bin/``` and name it chess.sh
 5. Copy this 👇 to chess.sh 
 
 ```bash
