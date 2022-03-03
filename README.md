@@ -28,7 +28,7 @@ Currently tinkering with ***Coding problems, Backend development, Linux kernel, 
 <p align="center">
 
 <br>
-<a target="_blank" href="https://madhanmohans.github.io"><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a>	
+<!--<a target="_blank" href="https://madhanmohans.github.io"><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a> -->	
 <a target="_blank" href="https://www.linkedin.com/in/madhanmohans"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:iammadhanmohans@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <a target="_blank" href="https://www.kaggle.com/madhanmohans"><img src="https://img.shields.io/badge/-Kaggle-20beff?style=for-the-badge&logo=Kaggle&logoColor=white"></img></a>
