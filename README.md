@@ -18,7 +18,7 @@
 
 ## 🛠  Tools and Technologies
 
-<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="Git" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="Git logo" title="Git" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/C%2B%2B-282C34?logo=c%2B%2B&logoColor=0000FF" alt="C++ logo" title="Cpp" height="25" />&nbsp;
 
 <br>
@@ -41,6 +41,7 @@ Currently tinkering with ***Coding problems, Backend development, Linux kernel, 
 
 <p align="center">
 
+<br>
 <br>
 <!--<a target="_blank" href="https://madhanmohans.github.io"><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a> -->	
 <a target="_blank" href="https://www.linkedin.com/in/madhanmohans"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
