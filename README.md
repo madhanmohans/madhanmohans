@@ -19,7 +19,7 @@
 ## 🛠  Tools and Technologies
 
 <img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="Git logo" title="Git" height="25" />&nbsp;
-<img src="https://img.shields.io/badge/C%2B%2B-282C34?logo=c%2B%2B&logoColor=0000FF" alt="C++ logo" title="Cpp" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/C%2B%2B-282C34?logo=c%2B%2B&logoColor=1261A0" alt="C++ logo" title="Cpp" height="25" />&nbsp;
 
 <br>
 
