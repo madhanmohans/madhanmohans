@@ -15,6 +15,16 @@
   <img align ="centre" src="https://github-readme-streak-stats.herokuapp.com?user=madhanmohans&hide_border=true&layout=compact&show_icons=true&theme=omni&hide_border=true"  width="500" alt="Madhan's github stats"/>
 </a>
 
+## 🛠  Tools and Technologies
+
+<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/C%2B%2B-282C34?logo=c%2B%2B&logoColor=F05032" alt="git logo" title="git" height="25" />&nbsp;
+
+## 📖  What I am currently learning / improving on
+
+
+
+## 👾  What I am interested in learning at some point
 <br>
 
 <img src="https://github.com/madhanmohans/madhanmohans/blob/main/media/life_balance.gif" alt="side Image" align="left" width="200" height="auto" />
