@@ -12,19 +12,23 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="centre" src="https://github-readme-stats.vercel.app/api?username=madhanmohans&show_icons=true&theme=omni&hide_border=true" width="500" alt="Madhan's github stats" />
-  <img align ="centre" src="https://github-readme-streak-stats.herokuapp.com?user=madhanmohans&hide_border=true&layout=compact&show_icons=true&theme=omni&hide_border=true"  width="500" alt="Madhan's github stats"/>
-</a>
+ <!-- <img align ="centre" src="https://github-readme-streak-stats.herokuapp.com?user=madhanmohans&hide_border=true&layout=compact&show_icons=true&theme=omni&hide_border=true"  width="500" alt="Madhan's github stats"/>
+</a> 
+ --> 
 
 ## 🛠  Tools and Technologies
 
-<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />&nbsp;
-<img src="https://img.shields.io/badge/C%2B%2B-282C34?logo=c%2B%2B&logoColor=F05032" alt="git logo" title="git" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="Git" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/C%2B%2B-282C34?logo=c%2B%2B&logoColor=0000FF" alt="C++ logo" title="Cpp" height="25" />&nbsp;
+
+<br>
 
 ## 📖  What I am currently learning / improving on
 
-
+<br>
 
 ## 👾  What I am interested in learning at some point
+
 <br>
 
 <img src="https://github.com/madhanmohans/madhanmohans/blob/main/media/life_balance.gif" alt="side Image" align="left" width="200" height="auto" />
@@ -54,23 +58,23 @@ Currently tinkering with ***Coding problems, Backend development, Linux kernel, 
 ```
 My ♟︎ Chess.com Ratings Chart
 
-Bullet Ratings:
+Rapid Ratings:
 
-  828.00  ┤
-  820.19  ┤                                                                     ╭─╮ ╭╮ ╭╮╭╮
-  812.38  ┤                                                                    ╭╯ │╭╯╰─╯╰╯╰╮
-  804.56  ┤                                                                   ╭╯  ╰╯       │
-  796.75  ┤                                                                ╭╮╭╯            ╰╮
-  788.94  ┤                                                          ╭╮   ╭╯╰╯              ╰╮╭╮
-  781.12  ┤                                  ╭╮╭╮                   ╭╯╰╮ ╭╯                  ╰╯╰╮
-  773.31  ┤                                 ╭╯││╰╮                 ╭╯  ╰─╯                      ╰╮╭╮         ╭
-  765.50  ┤                                ╭╯ ╰╯ ╰╮             ╭╮╭╯                             ╰╯╰╮╭╮     ╭╯
-  757.69  ┤                               ╭╯      ╰╮           ╭╯╰╯                                 ╰╯│    ╭╯
-  749.88  ┤           ╭╮╭╮╭╮╭╮         ╭╮╭╯        ╰╮╭╮       ╭╯                                      ╰╮╭──╯
-  742.06  ┤          ╭╯╰╯╰╯╰╯╰╮       ╭╯╰╯          ╰╯╰╮     ╭╯                                        ╰╯
-  734.25  ┤         ╭╯        ╰╮     ╭╯                ╰──╮ ╭╯
-  726.44  ┤        ╭╯          ╰╮   ╭╯                    ╰─╯
-  718.62  ┼──╮╭╮  ╭╯            ╰─╮╭╯
-  710.81  ┤  ╰╯╰╮╭╯               ╰╯
-  703.00  ┤     ╰╯
+ 1192.00  ┤                                               ╭╮
+ 1183.38  ┤                                              ╭╯╰╮  ╭╮
+ 1174.75  ┤                                         ╭╮╭──╯  ╰╮╭╯╰╮
+ 1166.12  ┤                                        ╭╯╰╯      ╰╯  ╰╮                       ╭╮             ╭╮
+ 1157.50  ┤                                       ╭╯              ╰╮   ╭╮                ╭╯╰╮╭╮  ╭╮╭─╮╭╮╭╯╰╮
+ 1148.88  ┤                                    ╭╮╭╯                ╰─╮╭╯╰╮╭─╮           ╭╯  ╰╯╰╮╭╯╰╯ ╰╯╰╯  ╰╮╭
+ 1140.25  ┤                                   ╭╯╰╯                   ╰╯  ╰╯ ╰╮╭╮╭╮     ╭╯      ╰╯           ╰╯
+ 1131.62  ┤                                ╭╮╭╯                              ╰╯╰╯╰╮╭╮╭─╯
+ 1123.00  ┤                            ╭╮ ╭╯╰╯                                    ╰╯╰╯
+ 1114.38  ┼╮                        ╭──╯╰─╯
+ 1105.75  ┤╰╮                      ╭╯
+ 1097.12  ┤ ╰╮                  ╭╮╭╯
+ 1088.50  ┤  ╰╮          ╭╮    ╭╯╰╯
+ 1079.88  ┤   ╰╮╭╮    ╭╮╭╯╰╮╭╮╭╯
+ 1071.25  ┤    ╰╯╰╮ ╭─╯╰╯  ╰╯╰╯
+ 1062.62  ┤       ╰─╯
+ 1054.00  ┤
 ```
