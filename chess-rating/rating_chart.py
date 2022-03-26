@@ -7,7 +7,7 @@ import asciichartpy as ac
 import requests
 
 USERNAME = 'mediocremind937'
-TIME_CLASS = 'rapid'
+TIME_CLASS = 'blitz'
 RULES = 'chess' #chess960 and other variants possible here
 NGAMES = 100
 ARCHIVES_URL = 'https://api.chess.com/pub/player/{user}/games/archives'
