@@ -1,4 +1,4 @@
-# Hello, Bypasser! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, Bypasser! <img src="https://github.com/madhanmohans/madhanmohans/blob/main/media/wave.gif" width="30px">
 
 > ###  *“Don’t be intimidated by what you don’t know. That can be your greatest strength and ensure that you do things differently from everyone else.” ~ Sara Blakely*
 
