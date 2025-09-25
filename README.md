@@ -8,6 +8,7 @@
 
  ###  *“Don’t be intimidated by what you don’t know. That can be your greatest strength and ensure that you do things differently from everyone else.” ~ Sara Blakely*
 
+![Habitica Stats](https://habitica-stats.vercel.app/api/habitica-stats)
 <!--
 <br>
 
